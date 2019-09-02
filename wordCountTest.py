@@ -1,4 +1,9 @@
 #! /usr/bin/env python3
+'''Hiram Rios 80552404 the purpose of this lab is to practice using pyhton and get a feel for it
+ we are to make a program that receives the text file and prints out how many times all the occuring words come out
+ in a out put file '''
+
+
 
 import sys        # command line arguments
 import re         # regular expression tools

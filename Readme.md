@@ -19,7 +19,7 @@ To test your program we provide wordCountTest.py and two key
 files. This test program takes your output file and notes any
 differences with the key file. An example use is:
 
-`$ python wordCountTest.py declaration.txt myOutput.txt declarationKey.txt`
+`$ python wordCountTest.py declaration.txt output.txt declarationKey.txt`
 
 The re regular expression library and python dictionaries should be
 used in your program. 
